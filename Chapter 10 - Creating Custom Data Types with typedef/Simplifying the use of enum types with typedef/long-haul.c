@@ -18,7 +18,7 @@ enum Suit2{eSpade, eHeart} S1, S2; // [Note1]
 /*The syntax for using typedef in enumerations has three forms.*/
 
 // The first form 
-enum name {enumeration1, enymeration2, };
+enum name {enumeration1, enumeration2, enumerationN};
 
 // Notes:
 // 1. "C distinguishes between uppercase and lowercase letters 
