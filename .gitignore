@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/Chapter 10 - Creating Custom Data Types with typedef/.vs/Chapter 10 - Creating Custom Data Types with typedef
