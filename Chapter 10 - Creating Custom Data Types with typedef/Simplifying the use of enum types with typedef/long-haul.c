@@ -6,8 +6,23 @@ enum Suit{eSpade, eHeart};
 enum Face f1, f2;
 enum Suit s1, s2;
 
-// Another way to achieve the same result:
+/* Another way to achieve the same result : */
 
 // Defining an enumeration and declaring variables of that type at the same time.
 enum Face2{eOne, eTwo, eThree} F1, F2;
-enum Suit2{eSpade, eHeart} S1, S2;
+enum Suit2{eSpade, eHeart} S1, S2; // [Note1]
+
+
+/*The situation is quite different, however, when typedef is thrown into the mix.*/
+
+/*The syntax for using typedef in enumerations has three forms.*/
+
+// The first form 
+enum name {enumeration1, enymeration2, };
+
+// Notes:
+// 1. "C distinguishes between uppercase and lowercase letters 
+// so that date is different from Date."[1]
+
+// References:
+// 1. Book: Learn to Program with C.
