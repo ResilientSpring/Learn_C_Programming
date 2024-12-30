@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enumeration 3", "Enumeratio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The second form", "The second form\The second form.vcxproj", "{EAB03073-1AE1-4833-A9B9-A70001679AC0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The first form", "The first form\The first form.vcxproj", "{D17D35FF-B987-494B-A06B-7D2A38A457EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{EAB03073-1AE1-4833-A9B9-A70001679AC0}.Release|x64.Build.0 = Release|x64
 		{EAB03073-1AE1-4833-A9B9-A70001679AC0}.Release|x86.ActiveCfg = Release|Win32
 		{EAB03073-1AE1-4833-A9B9-A70001679AC0}.Release|x86.Build.0 = Release|Win32
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Debug|x64.ActiveCfg = Debug|x64
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Debug|x64.Build.0 = Debug|x64
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Debug|x86.Build.0 = Debug|Win32
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Release|x64.ActiveCfg = Release|x64
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Release|x64.Build.0 = Release|x64
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Release|x86.ActiveCfg = Release|Win32
+		{D17D35FF-B987-494B-A06B-7D2A38A457EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
