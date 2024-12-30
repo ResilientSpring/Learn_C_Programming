@@ -32,5 +32,24 @@ int main() {
 
 	printf("\n==============\n");
 
-	printf(" %s \n %s \n %s \n %s \n %s \n %s \n", f1, s1, F1, S2, S1, F2);
+//	printf(" %s \n %s \n %s \n %s \n %s \n %s \n", f1, s1, F1, S2, S1, F2);
+
+	switch (f1)
+	{
+	case eOne:
+		break;
+	case eTwo:
+		break;
+	case eThree:
+		break;
+	default:
+		break;
+	}
+
+
+	if (f1 == NULL)
+		printf("f1 is null. \n");
+	else if (f1 == 0)
+		printf("f1 is 0. \n");
+
 }
