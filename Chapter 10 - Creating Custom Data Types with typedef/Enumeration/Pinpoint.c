@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 // First define some enumerated types.
 enum Face { eOne, eTwo, eThree };
 enum Suit { eSpade, eHeart };
@@ -22,5 +24,5 @@ int main() {
 
 	S2 = eHeart;
 
-
+	printf("%s %d %c", f1, f1, f1);
 }
