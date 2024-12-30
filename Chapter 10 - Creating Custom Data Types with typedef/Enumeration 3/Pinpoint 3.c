@@ -29,4 +29,8 @@ int main() {
 	printf("\n==============\n");
 
 	printf(" %c \n %c \n %c \n %c \n %c \n %c \n", f1, s1, F1, S2, S1, F2);
+
+	printf("\n==============\n");
+
+	printf(" %s \n %s \n %s \n %s \n %s \n %s \n", f1, s1, F1, S2, S1, F2);
 }
