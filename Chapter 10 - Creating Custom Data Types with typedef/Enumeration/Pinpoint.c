@@ -18,6 +18,9 @@ int main() {
 
 	s1 = eSpade;
 
+	F1 = eTwo;
+
+	S2 = eHeart;
 
 
 }
