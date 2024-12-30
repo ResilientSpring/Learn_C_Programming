@@ -11,8 +11,8 @@ enum Suit s1, s2;
 /* Another way to achieve the same result : */
 
 // Defining an enumeration and declaring variables of that type at the same time.
-enum Face2 { eOne, eTwo, eThree } F1, F2;
-enum Suit2 { eSpade, eHeart } S1, S2;
+enum Face2 { eOne1, eTwo2, eThree3 } F1, F2;
+enum Suit2 { eSpade1, eHeart2 } S1, S2;
 
 int main() {
 
