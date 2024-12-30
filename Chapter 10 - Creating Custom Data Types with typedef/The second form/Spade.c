@@ -4,4 +4,4 @@ typedef enum name {
 	enumeration2,
 	enumerationN
 
-};
+} synonym1, synonym2;
