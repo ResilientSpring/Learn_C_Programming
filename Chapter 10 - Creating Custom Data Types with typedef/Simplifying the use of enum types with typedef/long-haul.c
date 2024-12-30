@@ -20,6 +20,11 @@ enum Suit2{eSpade, eHeart} S1, S2; // [Note1]
 // The first form 
 enum name {enumeration1, enumeration2, enumerationN};
 
+typedef enum name synonym_name;
+
+typedef enum Face Face;
+typedef enum Suit Suit;
+
 // Notes:
 // 1. "C distinguishes between uppercase and lowercase letters 
 // so that date is different from Date."[1]
