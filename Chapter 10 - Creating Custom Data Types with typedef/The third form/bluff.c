@@ -6,7 +6,7 @@ typedef enum {
 
 } synonym;
 
-// We only have synonyms for unnamed or anonymous type.
+// We only have synonyms for this unnamed or anonymous type.
 
 
 
