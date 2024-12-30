@@ -25,6 +25,11 @@ typedef enum name synonym_name;
 typedef enum Face Face;
 typedef enum Suit Suit;
 
+Face face;
+face = eThree;
+
+Suit suit = eSpade;
+
 // Notes:
 // 1. "C distinguishes between uppercase and lowercase letters 
 // so that date is different from Date."[1]
