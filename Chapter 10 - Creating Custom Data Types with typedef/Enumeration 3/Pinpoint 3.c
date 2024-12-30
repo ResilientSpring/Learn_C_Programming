@@ -24,5 +24,5 @@ int main() {
 
 	S2 = eHeart;
 
-	printf("%d \n %d \n %d \n %d \n %d \n", f1, s1,F1, S2, S1);
+	printf(" %d \n %d \n %d \n %d \n %d \n", f1, s1,F1, S2, S1);
 }
