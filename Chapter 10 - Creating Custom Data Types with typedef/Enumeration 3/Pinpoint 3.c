@@ -52,4 +52,10 @@ int main() {
 	else if (f1 == 0)
 		printf("f1 is 0. \n");
 
+	printf("\n==============\n");
+
+	if (f1 == 0)
+		printf("f1 is 0. \n");
+	else if (f1 == NULL)
+		printf("f1 is null. \n");
 }
