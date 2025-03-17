@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simplifying the use of enum types with typedef", "Simplifying the use of enum types with typedef\Simplifying the use of enum types with typedef.vcxproj", "{0D9070E7-383D-42E7-869F-4460D50D6DAE}"
 EndProject
@@ -18,6 +18,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The third form", "The third form\The third form.vcxproj", "{3224E12D-4318-48C2-BF18-C398CF2E3825}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Other uses of typedef", "Other uses of typedef\Other uses of typedef.vcxproj", "{647C3351-2F1A-47D2-A1FB-7A82B90E5DF8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simplify struct type with typedef", "Simplify struct type with typedef\Simplify struct type with typedef.vcxproj", "{26CA5527-5AE3-4675-AD2F-190D731D2AFE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Another way", "Another way\Another way.vcxproj", "{260501B1-A83F-412E-87F4-D62938E21618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,8 +95,27 @@ Global
 		{647C3351-2F1A-47D2-A1FB-7A82B90E5DF8}.Release|x64.Build.0 = Release|x64
 		{647C3351-2F1A-47D2-A1FB-7A82B90E5DF8}.Release|x86.ActiveCfg = Release|Win32
 		{647C3351-2F1A-47D2-A1FB-7A82B90E5DF8}.Release|x86.Build.0 = Release|Win32
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Debug|x64.ActiveCfg = Debug|x64
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Debug|x64.Build.0 = Debug|x64
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Debug|x86.Build.0 = Debug|Win32
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Release|x64.ActiveCfg = Release|x64
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Release|x64.Build.0 = Release|x64
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Release|x86.ActiveCfg = Release|Win32
+		{26CA5527-5AE3-4675-AD2F-190D731D2AFE}.Release|x86.Build.0 = Release|Win32
+		{260501B1-A83F-412E-87F4-D62938E21618}.Debug|x64.ActiveCfg = Debug|x64
+		{260501B1-A83F-412E-87F4-D62938E21618}.Debug|x64.Build.0 = Debug|x64
+		{260501B1-A83F-412E-87F4-D62938E21618}.Debug|x86.ActiveCfg = Debug|Win32
+		{260501B1-A83F-412E-87F4-D62938E21618}.Debug|x86.Build.0 = Debug|Win32
+		{260501B1-A83F-412E-87F4-D62938E21618}.Release|x64.ActiveCfg = Release|x64
+		{260501B1-A83F-412E-87F4-D62938E21618}.Release|x64.Build.0 = Release|x64
+		{260501B1-A83F-412E-87F4-D62938E21618}.Release|x86.ActiveCfg = Release|Win32
+		{260501B1-A83F-412E-87F4-D62938E21618}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D10204-6FD6-4952-8E68-49D5ABA2CBE4}
 	EndGlobalSection
 EndGlobal
